@@ -1,0 +1,16 @@
+{
+    "name": "Navigator .by .by Bryan Kgoana Kabelo Mametja",
+    "version": "0.0.2.3",
+    "description": "A Chrome extension meant for basic browser detection to get browser information about user agent and etc.",
+    "manifest_version": 3,
+    "author": "Bryan Kgoana Kabelo Mametja",
+	"icons": {
+		"16": "1.Icons/16.png",
+		"48": "1.Icons/128.png",
+		"128": "1.Icons/128.png"
+	},
+	"action":{
+		"default_popup": "index.html",
+		"default_title": ""
+	}
+}
