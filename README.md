@@ -7,13 +7,8 @@ Features:
 Quick Access Panel: The extension provides an easy-to-use interface, where users can instantly view the gathered information with a single click.
 
 You can get information such as:
-
 - Connection
-
 - User Agents 
-
 - Connection effective type
-
 - Cookies enabled
-
 - If WebGPU supported
