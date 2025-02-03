@@ -8,12 +8,12 @@ Quick Access Panel: The extension provides an easy-to-use interface, where users
 
 You can get information such as:
 
--Connection
+- Connection
 
--User Agents 
+- User Agents 
 
--Connection effective type
+- Connection effective type
 
--Cookies enabled
+- Cookies enabled
 
--If WebGPU supported
+- If WebGPU supported
